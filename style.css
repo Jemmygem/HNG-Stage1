@@ -54,7 +54,7 @@ a {
   padding: 0.5rem;
   cursor: pointer;
   text-align: center;
-  margin: 250px;
+    align-items: center;
   justify-content: center;
 }
 a:hover {
