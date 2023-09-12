@@ -61,7 +61,7 @@ a {
   padding: 0.5rem;
   cursor: pointer;
   text-align: center;
-
+    align-items: center;
   justify-content: center;
 }
 a:hover {
